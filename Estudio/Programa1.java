@@ -18,5 +18,5 @@ public class Programa1 {
         }
         
     }
-    //*Version 1.0 creo que se puede simplificar mas con una matriz en int [][] :) */
+    //*Version 1.0 creo que se puede simplificar mas con una matriz (array) en int [][] :) */
 }
